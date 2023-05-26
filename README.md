@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Nodejs-Auth
 Using Nodejs, ejs, MongoDB, and Passport 
 
@@ -10,3 +11,6 @@ Using Nodejs, ejs, MongoDB, and Passport
 ![Screenshot (59)](https://user-images.githubusercontent.com/100932180/188841095-7ac5a7c8-09e2-4384-ae7e-f56339db6015.png)
 
 ![Screenshot (60)](https://user-images.githubusercontent.com/100932180/188841115-2f44bd4f-31cd-4c37-83b6-6a6ca7db3abe.png)
+=======
+# nodejsAuthentication
+>>>>>>> d09dd9b1b309cc83477686703ce47d2120052a6e
